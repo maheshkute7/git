@@ -3,3 +3,6 @@ emoji
 chatapplication
 dark mode videocall
 hhgjhgj
+payment
+sesnd money
+recive money
